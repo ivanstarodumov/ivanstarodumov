@@ -10,7 +10,7 @@ Product manager. Довожу продукты от идеи до работаю
 
 **[UnitCalc](https://github.com/ivanstarodumov/unitcalc)** - офлайн-калькулятор unit-экономики для продавцов на маркетплейсах: прибыль заказа, точка безубыточности, стресс-сценарии. Стек: JavaScript, без зависимостей. [Открыть калькулятор →](https://ivanstarodumov.github.io/unitcalc/)
 
-**[Аналитика клиентской базы](https://github.com/ivanstarodumov/ecommerce-customer-analytics)** - RFM-сегментация, ABC/XYZ, кластеризация, A/B-тест и сценарный LTV на 542 тыс. транзакций интернет-магазина. С честными методическими ограничениями там, где выводы зависят от допущений модели. Стек: Python, pandas, scikit-learn.
+**[Аналитика клиентской базы](https://github.com/ivanstarodumov/ecommerce-customer-analytics)** - RFM-сегментация, ABC/XYZ, кластеризация и сценарный LTV на данных интернет-магазина (542 тыс. транзакций); A/B-тест — синтетический учебный пример. С честными методическими ограничениями там, где выводы зависят от допущений модели. Стек: Python, pandas, scikit-learn.
 
 **[Оценка инвестиционных проектов](https://github.com/ivanstarodumov/investment-project-analysis)** - сравнение пяти проектов четырьмя методами в условиях неопределённости (сценарный анализ, нечёткий NPV, метод Чиу-Парка). Стек: Python, pandas, matplotlib.
 
